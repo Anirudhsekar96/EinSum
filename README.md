@@ -1,2 +1,2 @@
 # EinSum
-Testing out Numpy Einstein Summation
+Testing out Numpy Einstein Summation.
